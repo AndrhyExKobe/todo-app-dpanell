@@ -14,7 +14,7 @@ return [
   "EnterTaskName"=> "Enter your task name",
   "Required"=> " is required",
   "SuccessSave"=> "Successfully save",
-  "SuccessEdit"=> "Successfully update",
+  "SuccessUpdate"=> "Successfully update",
   "SuccessDelete"=> "Successfully delete",
   "FailedSave"=> "Failed to save",
   "FailedUpdate"=> "Failed to update",
